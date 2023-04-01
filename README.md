@@ -30,3 +30,8 @@ My name is Aldo Ibuado and I am a Full-Stack Web Developer :desktop_computer:. I
 ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![GHPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+
+## Workspace Specs
+
+![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1650Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Ryzen](https://img.shields.io/badge/AMD%20Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
